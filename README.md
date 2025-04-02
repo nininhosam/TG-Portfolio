@@ -20,7 +20,7 @@ Profissionalmente, dei um passo importante na minha carreira ao iniciar um está
 
 ## Principais conhecimentos
 
-| Front-end | Back-end | Database | Versionamento
+| Front-end | Back-end | Database | Versionamento |
 |-------------|-------------|-------------------|-------------|
 | <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,angular,tailwind"/> | <img src="https://skillicons.dev/icons?i=nodejs,sequelize,cs"/> | <img src="https://skillicons.dev/icons?i=mysql,mongodb"/> | <img src="https://skillicons.dev/icons?i=git,github"/> |
 
@@ -38,14 +38,28 @@ Como solução, minha equipe desenvolveu um sistema web didático e interativo v
 <img src="https://skillicons.dev/icons?i=html,css,js,python,bootstrap,flask"/>
 
 * html, css - Linguagens de marcação utilizadas no front-end
-* bootstrap - framework de frontend para design no front-end
+* bootstrap - Framework de frontend para design no front-end
 * javascript - Linguagem de programação utilizada para funções no front-end
 * python, flask - Linguagem de programação e framework utilizados para estruturação do website no front-end
 
 #### Contribuições pessoais
+Neste projeto, atuei como desenvolvedor, sendo responsável pela estruturação das páginas como template e pela implementação da busca de informações para as seções "Metodologia" e "Dev Team". Desenvolvi funcionalidades como tooltips, ocultação da barra de navegação e redirecionamento no glossário.
+
+Além disso, trabalhei na estilização e animação de elementos, incluindo os botões da página inicial e o modo escuro do site. Nos estágios finais do projeto, também participei da tradução do conteúdo para o inglês, permitindo a disponibilização de uma versão bilíngue da plataforma.
 
 #### Hard Skills
 
+| Hard Skill | Nivel de Proficiência | 
+|-------------|-------------|
+| HTML, CSS | Consigo ensinar |
+| Bootstrap | Consigo ensinar |
+| Python/Flask | Uso com autonomia |
+| JavaScript | Consigo ensinar |
+| Git/GitHub | Consigo ensinar |
+
 #### Soft Skills
+Durante o desenvolvimento do projeto, utilizei minha habilidade de comunicação ao sugerir a criação do glossário, uma página dedicada à explicação de termos técnicos utilizados no sistema. Expliquei ao time a importância desse recurso para a acessibilidade e compreensão do conteúdo pelos usuários, além de propor a funcionalidade de redirecionamento para facilitar a navegação.
+
+Além disso, exerci trabalho em equipe e mentoria ao auxiliar outros membros na adaptação ao template do Flask. Compartilhei boas práticas para a estruturação das páginas e ofereci suporte na estilização responsiva, garantindo que o sistema fosse visualmente consistente e funcional em diferentes dispositivos.
 
 </details>
