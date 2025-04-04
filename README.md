@@ -28,7 +28,7 @@ Profissionalmente, dei um passo importante na minha carreira ao iniciar um está
 <details> 
   <summary>Primeiro Semestre (2023-1) - Plataforma Scrum</summary>
 
-O projeto desenvolvido no primeiro semestre do curso teve como empresa parceira a própria FATEC, sob a orientação do professor Antônio Egydio.
+O projeto [Plataforma Scrum](https://github.com/byte-boost/plataforma-scrum) desenvolvido no primeiro semestre do curso teve como empresa parceira a própria FATEC, sob a orientação do professor Antônio Egydio.
 
 O problema apresentado consistia na dificuldade de compreensão e aplicação dos processos e artefatos da metodologia ágil Scrum. Muitos alunos e profissionais da área de tecnologia enfrentam desafios ao tentar estruturar projetos seguindo esse framework, seja por falta de referências bem organizadas, exemplos práticos ou materiais acessíveis que expliquem sua aplicação no dia a dia.
 
