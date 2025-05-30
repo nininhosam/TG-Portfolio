@@ -43,9 +43,9 @@ Como solução, minha equipe desenvolveu um sistema web didático e interativo v
 * python, flask - Linguagem de programação e framework utilizados para estruturação do website no front-end
 
 #### Contribuições pessoais
-Neste projeto, atuei como desenvolvedor, sendo responsável pela estruturação das páginas como template e pela implementação da busca de informações para as seções "Metodologia" e "Dev Team". Desenvolvi funcionalidades como tooltips, ocultação da barra de navegação e redirecionamento no glossário.
+Neste projeto, atuei como desenvolvedor, sendo responsável pela estruturação das páginas no frontend como: template utilizando flask, e implementação da busca de informações para as seções "Metodologia" e "Dev Team". Desenvolvi funcionalidades como tooltips, ocultação da barra de navegação e redirecionamento no glossário. Para isso eu utilizei apenas das linguagens de marcação HTML e CSS (com auxilio do framework bootstrap), e para programação, apenas JavaScript. 
 
-Além disso, trabalhei na estilização e animação de elementos, incluindo os botões da página inicial e o modo escuro do site. Nos estágios finais do projeto, também participei da tradução do conteúdo para o inglês, permitindo a disponibilização de uma versão bilíngue da plataforma.
+Além disso, trabalhei na estilização e animação de elementos, incluindo os botões da página inicial e o modo escuro do site, também com HTML e CSS. Nos estágios finais do projeto, também participei da tradução do conteúdo para o inglês, permitindo a disponibilização de uma versão bilíngue da plataforma.
 
 #### Hard Skills
 
