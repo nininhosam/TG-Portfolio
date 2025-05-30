@@ -63,3 +63,43 @@ Durante o desenvolvimento do projeto, utilizei minha habilidade de comunicação
 Além disso, exerci trabalho em equipe e mentoria ao auxiliar outros membros na adaptação ao template do Flask. Compartilhei boas práticas para a estruturação das páginas e ofereci suporte na estilização responsiva, garantindo que o sistema fosse visualmente consistente e funcional em diferentes dispositivos.
 
 </details>
+
+<details> 
+  <summary>Segundo Semestre (2023-2) - Duck</summary>
+
+O projeto [Duck](https://github.com/Byte-Boost/Duck) desenvolvido no segundo semestre do curso teve como empresa parceira a própria FATEC, sob a orientação do professor Giuliano Bertoti.
+
+O problema apresentado consistia na dificuldade de processar rapidamente documentos para extrair informações específicas de maneira dinâmica e em tempo real. Empresas e profissionais frequentemente precisam analisar relatórios ou planilhas extensas, demandando uma solução que permita realizar consultas sem a necessidade de memorizar ou armazenar dados, otimizando processos como análise de vendas e elaboração de relatórios.
+
+Como solução, minha equipe desenvolveu uma aplicação desktop em Java que utiliza inteligência artificial, e permite o usuário a extrair informações automaticamente de documentos nos formatos PDF ou TXT. A aplicação visa simplificar e acelerar o processo de análise de conteúdo, aumentando a produtividade em estudos e pesquisas.
+
+#### Tecnologias
+<img src="https://skillicons.dev/icons?i=css,java,mysql,gradle"/>
+
+* css - Linguagem de marcação utilizada no front-end
+* java - Linguagem de programação utilizada para fazer a aplicação inteira,
+* mysql - Banco de dados utilizado para guardar as informações da aplicação
+* gradle - Ferramenta para automação de compilação do projeto permitindo a conexão dos repositorios do frontend e do backend de forma fluida.
+
+#### Contribuições pessoais
+Neste projeto, atuei como desenvolvedor, e fui responsável pela página de registro da aplicação, utilizando o framework JavaFx para garantir uma interface intuitiva e agradável.
+No backend, desenvolvi também em java, o método de envio de emails utilizando a biblioteca JavaMail, permitindo funcionalidades como notificações de registro e recuperação de credenciais. 
+
+Ainda com Java, implementei a criptografia de senha com hash para garantir a segurança dos dados dos usuários no banco de dados e também implementei a função de troca de senha, permitindo que os usuários atualizassem suas credenciais com uma simples confirmação por email.
+
+#### Hard Skills
+
+| Hard Skill | Nivel de Proficiência | 
+|-------------|-------------|
+| Java | Uso com autonomia |
+| Gradle | Uso com autonomia |
+| MySQL | Consigo ensinar |
+| JavaMail | Uso com autonomia |
+| Git/GitHub | Consigo ensinar |
+
+#### Soft Skills
+Durante o desenvolvimento do sistema, utilizei minha proatividade e foco em segurança ao identificar necessidade de proteger informações sensíveis, como chaves de API, credênciais de email, e credênciais do banco de dados. Propus à equipe a adoção de variáveis de ambiente e arquivos de configuração, e liderei a implementação dessa prática, reforçando a comunicação assertiva para conscientizar o time sobre os riscos e benefícios envolvidos.
+
+Além disso, demonstrei ptensamento crítico ao perceber a necessidade de proteger as credenciais dos usuários. Propus e implementei a criptografia de senhas com hash, evitando o armazenamento inseguro de dados e contribuindo ativamente para a segurança do sistema.
+
+</details>
