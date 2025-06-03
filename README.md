@@ -103,3 +103,58 @@ Durante o desenvolvimento do sistema, utilizei minha proatividade e foco em segu
 Além disso, demonstrei ptensamento crítico ao perceber a necessidade de proteger as credenciais dos usuários. Propus e implementei a criptografia de senhas com hash, evitando o armazenamento inseguro de dados e contribuindo ativamente para a segurança do sistema.
 
 </details>
+
+<details> 
+  <summary>Terceiro Semestre (2024-1) - Nebulon</summary>
+
+O projeto [Nebulon](https://github.com/Byte-Boost/Nebulon), desenvolvido durante o terceiro semestre do curso, teve como empresa parceira a PRO4TECH.
+
+O problema apresentado consistia na dificuldade de muitos profissionais e organizações em organizar, registrar e visualizar informações relacionadas aos processos de venda, como o cadastro de clientes, produtos e o acompanhamento do desempenho dos vendedores. A ausência de uma plataforma centralizada dificultava o controle eficiente dessas operações, comprometendo a agilidade no registro de vendas, a análise do desempenho individual e coletivo dos vendedores, e a identificação de novos clientes.
+
+Como solução, minha equipe desenvolveu uma plataforma web inovadora, com uma interface amigável e adaptável, que oferece diversas ferramentas de visualização e análise de dados. O sistema foi projetado para garantir alta performance, segurança e escalabilidade, promovendo uma experiência de usuário excepcional. Além disso, o desenvolvimento do projeto contribuiu para o fortalecimento das competências técnicas dos integrantes, com foco em programação orientada a objetos e na aplicação da metodologia Ágil Scrum.
+
+#### Tecnologias
+<img src="https://skillicons.dev/icons?i=html,css,nodejs,react,nextjs,tailwind,mysql,express,sequelize"/>
+
+* html, css, tailwind - Linguagens de marcação e framework utilizados no front-end para construção e estilização das páginas
+* typescript, react - Linguagem de programação e biblioteca utilizadas no front-end para criação de componentes reutilizáveis
+* javascript, nodejs - Linguagem de programação e ambiente de execução utilizados para construir o back-end
+* express - Framework utilizado no back-end para estruturar as rotas e facilitar a criação da API REST
+* sequelize, mysql - ORM e sistema gerenciador de banco de dados utilizados para modelagem, manipulação e persistência dos dados da aplicação
+
+#### Contribuições pessoais
+Neste projeto, atuei como desenvolvedor, sendo responsável pela estruturação e inicialização do back-end utilizando Node.js, Express e Sequelize, garantindo a configuração adequada do ambiente para o correto funcionamento da aplicação.
+
+Implementei os CRUDs (Create, Read, Update, Delete) para as entidades de clientes e produtos, assegurando operações completas e seguras no banco de dados MySQL.
+
+No front-end, que foi desenvolvido com TypeScript, React, e Tailwind, desenvolvi funcionalidades importantes, como o filtro para tabelas, que permite aos usuários localizar rapidamente registros específicos, e o popup de notificação, responsável por informar o sucesso ou falha das operações de forma intuitiva.
+
+Também fui responsável pelo tratamento e validação de CPF e CNPJ nos formulários do front-end, assegurando a integridade e a conformidade dos dados inseridos pelos usuários.
+
+Além disso, implementei a tabela de vendedores, facilitando a visualização e gestão dessa equipe, e desenvolvi o scoreboard, um painel com a pontuação dos usuários baseada no volume de vendas, promovendo um ambiente de competição saudável e incentivando o desempenho da equipe.
+
+#### Hard Skills
+
+
+| Hard Skill | Nivel de Proficiência | 
+|-------------|-------------|
+| HTML | Consigo ensinar |
+| CSS | Consigo ensinar |
+| Tailwind | Consigo ensinar |
+| JavaScript | Consigo ensinar |
+| Node.js | Consigo ensinar |
+| Express | Consigo ensinar |
+| Sequelize | Consigo ensinar |
+| MySQL | Consigo ensinar |
+| TypeScript | Consigo ensinar |
+| React | Consigo ensinar |
+
+
+#### Soft Skills
+Durante o desenvolvimento do projeto, utilizei minhas habilidades de comunicação para sugerir a implementação da validação de CPF e CNPJ nos formulários, garantindo maior qualidade e confiabilidade dos dados coletados.
+
+Também propus a criação do scoreboard como uma ferramenta de incentivo, visando aumentar o engajamento dos usuários por meio da pontuação baseada nas vendas.
+
+Além disso, atuei como mentor, demonstrando trabalho em equipe, ao ajudar meu time a se familiarizar com as tecnologias Express e Sequelize, compartilhando conhecimentos e boas práticas para acelerar o desenvolvimento do backend.
+
+</details>
