@@ -183,7 +183,7 @@ Neste projeto, atuei como desenvolvedor, sendo responsável pela estruturação 
 
 Implementei também as funções de pesquisa de usuários e os filtros dinâmicos para tickets, otimizando a busca e a gestão das solicitações na plataforma. No backend, além das rotas, implementei opções para alteração de senha e controle de autenticação.
 
-Por fim, fui responsável pela implementação da paginação nas listagens, bem como pelos cálculos de indicadores exibidos no dashboard, possibilitando uma visão consolidada do desempenho da empresa. Para a estilização da interface, utilizei HTML, CSS e Tailwind CSS, garantindo um design responsivo e funcional.
+Por fim, fui responsável pela construção de componentes relacionados a paginação das listagens, bem como pelos cálculos de indicadores exibidos no dashboard, possibilitando uma visão consolidada do desempenho da empresa. Para a estilização da interface, utilizei HTML, CSS e Tailwind CSS, garantindo um design responsivo e funcional.
 
 #### Hard Skills
 
@@ -207,4 +207,61 @@ Durante o desenvolvimento do projeto, utilizei minhas habilidades de comunicaç�
 Além disso, demonstrei colaboração e proatividade ao criar comandos de desenvolvimento, que facilitaram a rotina do time e otimizaram o processo de implementação das funcionalidades.
 
 Por fim, exerci trabalho em equipe e apoio à liderança, auxiliando o Scrum Master no acompanhamento das tarefas, contribuindo para a organização do backlog e garantindo que as entregas fossem concluídas dentro do prazo estabelecido.
+
+</details>
+
+<details> 
+  <summary>Quinto Semestre (2025-1) - ExpenseFlow</summary>
+
+O projeto [ExpenseFlow](https://github.com/Byte-Boost/ExpenseFlow) desenvolvido no quinto semestre do curso teve como empresa parceira a GSW.
+
+O problema apresentado consistia na necessidade de uma solução prática para o gerenciamento de reembolsos corporativos, facilitando a solicitação, acompanhamento e aprovação dessas despesas.
+
+Como solução, minha equipe desenvolveu um aplicativo móvel intuitivo para requisição e controle de reembolsos, com funcionalidades como listagem filtrada por status e mês, criação de solicitações com anexos e seleção de projetos. Além disso, foi criada uma interface web administrativa para a gestão de usuários e projetos.
+
+#### Tecnologias
+<img src="https://skillicons.dev/icons?i=html,css,javascript,nodejs,typescript,react,nextjs,tailwind,mysql,express,sequelize,mongodb"/>
+
+* HTML, CSS, Tailwind – Linguagens de marcação e framework utilizados na interface web para construção e estilização das páginas administrativas.
+* TypeScript, React – Linguagem de programação e biblioteca utilizadas na interface web para criação de componentes reutilizáveis.
+* React Native, Expo – Biblioteca e ferramenta utilizadas para o desenvolvimento do aplicativo mobile, garantindo uma experiência nativa e otimizada.
+* JavaScript, Node.js – Linguagem de programação e ambiente de execução utilizados para construir o back-end.
+* Express – Framework utilizado no back-end para estruturar as rotas e facilitar a criação da API REST.
+* Sequelize, MySQL – ORM e sistema gerenciador de banco de dados utilizados para modelagem, manipulação e persistência dos dados da aplicação.
+* Mongoose, MongoDB – ODM e banco de dados NoSQL utilizados para armazenar dados não relacionais, oferecendo flexibilidade na modelagem de informações.
+
+#### Contribuições pessoais
+Neste projeto, atuei como desenvolvedor e Scrum Master. Como desenvolvedor, fui responsável pela estruturação do back-end e da maior parte do front-end web. No back-end, desenvolvi rotas para listagem de reembolsos, autenticação de usuários, middleware de autenticação e autorização, além da implementação do MongoDB com Mongoose para armazenar preferências de projetos. Também criei funcionalidades como adição e remoção de usuários, atualização de preferências e definição de roles administrativas.
+
+No front-end web, construí praticamente todas as páginas: listagem, criação, edição e remoção de usuários, projetos e reembolsos, além do website em si, com a página de login e restrições de acesso exclusivas para administradores.
+
+Como Scrum Master, fui responsável por criar e atribuir tarefas, acompanhar o burndown e garantir que as entregas fossem feitas no prazo, utilizando Trello e Excel para organização e controle do desenvolvimento.
+
+#### Hard Skills
+
+| Hard Skill | Nivel de Proficiência | 
+|-------------|-------------|
+| HTML | Consigo ensinar |
+| CSS | Consigo ensinar |
+| Tailwind | Consigo ensinar |
+| JavaScript | Consigo ensinar |
+| Node.js | Consigo ensinar |
+| Express | Consigo ensinar |
+| Sequelize | Consigo ensinar |
+| MySQL | Consigo ensinar |
+| TypeScript | Consigo ensinar |
+| React | Consigo ensinar |
+| React Native | Uso com autonomia |
+| Expo | Uso com autonomia |
+| Mongoose | Consigo ensinar |
+| MongoDb | Consigo ensinar |
+| Git/GitHub | Consigo ensinar |
+
+#### Soft Skills
+Durante o desenvolvimento deste projeto, exerci fortemente minhas habilidades de liderança, organização e comunicação ao atuar como Scrum Master. Fui responsável por criar, distribuir e acompanhar as tarefas, garantir a manutenção do burndown e assegurar que as entregas fossem realizadas dentro dos prazos estabelecidos. Para isso, utilizei ferramentas como Trello e Excel, promovendo uma gestão clara e eficiente do progresso do time.
+
+Além disso, precisei usar minha capacidade de solução de problemas e proatividade para ajustar o planejamento sempre que surgiam imprevistos ou mudanças de escopo, garantindo que o time se mantivesse focado e produtivo.
+
+Por fim, exercitei trabalho em equipe e empatia, apoiando os colegas no desenvolvimento das funcionalidades e na superação de eventuais dificuldades técnicas, sempre buscando manter um ambiente colaborativo e positivo.
+
 </details>
