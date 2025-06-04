@@ -51,7 +51,8 @@ Além disso, trabalhei na estilização e animação de elementos, incluindo os 
 
 | Hard Skill | Nivel de Proficiência | 
 |-------------|-------------|
-| HTML, CSS | Consigo ensinar |
+| HTML | Consigo ensinar |
+| CSS | Consigo ensinar |
 | Bootstrap | Consigo ensinar |
 | Python/Flask | Uso com autonomia |
 | JavaScript | Consigo ensinar |
@@ -91,6 +92,7 @@ Ainda com Java, implementei a criptografia de senha com hash para garantir a seg
 
 | Hard Skill | Nivel de Proficiência | 
 |-------------|-------------|
+| CSS | Consigo ensinar |
 | Java | Uso com autonomia |
 | Gradle | Uso com autonomia |
 | MySQL | Consigo ensinar |
@@ -114,7 +116,7 @@ O problema apresentado consistia na dificuldade de muitos profissionais e organi
 Como solução, minha equipe desenvolveu uma plataforma web inovadora, com uma interface amigável e adaptável, que oferece diversas ferramentas de visualização e análise de dados. O sistema foi projetado para garantir alta performance, segurança e escalabilidade, promovendo uma experiência de usuário excepcional. Além disso, o desenvolvimento do projeto contribuiu para o fortalecimento das competências técnicas dos integrantes, com foco em programação orientada a objetos e na aplicação da metodologia Ágil Scrum.
 
 #### Tecnologias
-<img src="https://skillicons.dev/icons?i=html,css,nodejs,react,nextjs,tailwind,mysql,express,sequelize"/>
+<img src="https://skillicons.dev/icons?i=html,css,javascript,nodejs,typescript,react,nextjs,tailwind,mysql,express,sequelize"/>
 
 * html, css, tailwind - Linguagens de marcação e framework utilizados no front-end para construção e estilização das páginas
 * typescript, react - Linguagem de programação e biblioteca utilizadas no front-end para criação de componentes reutilizáveis
@@ -135,6 +137,55 @@ Além disso, implementei a tabela de vendedores, facilitando a visualização e 
 
 #### Hard Skills
 
+| Hard Skill | Nivel de Proficiência | 
+|-------------|-------------|
+| HTML | Consigo ensinar |
+| CSS | Consigo ensinar |
+| Tailwind | Consigo ensinar |
+| JavaScript | Consigo ensinar |
+| Node.js | Consigo ensinar |
+| Express | Consigo ensinar |
+| Sequelize | Consigo ensinar |
+| MySQL | Consigo ensinar |
+| TypeScript | Consigo ensinar |
+| React | Consigo ensinar |
+| Git/GitHub | Consigo ensinar |
+
+#### Soft Skills
+Durante o desenvolvimento do projeto, utilizei minhas habilidades de comunicação para sugerir a implementação da validação de CPF e CNPJ nos formulários, garantindo maior qualidade e confiabilidade dos dados coletados.
+
+Também propus a criação do scoreboard como uma ferramenta de incentivo, visando aumentar o engajamento dos usuários por meio da pontuação baseada nas vendas.
+
+Além disso, atuei como mentor, demonstrando trabalho em equipe, ao ajudar meu time a se familiarizar com as tecnologias Express e Sequelize, compartilhando conhecimentos e boas práticas para acelerar o desenvolvimento do backend.
+
+</details>
+
+<details> 
+  <summary>Quarto Semestre (2024-2) - WeCollab</summary>
+
+O projeto [WeCollab](https://github.com/Byte-Boost/WeCollab), desenvolvido no terceiro semestre do curso, teve como empresa parceira a JJM LOG.
+
+O problema apresentado consistia na dificuldade enfrentada por empresas em centralizar a comunicação interna e a gestão de solicitações, documentos e informações de desempenho. A ausência de um sistema unificado dificultava o acompanhamento do fluxo de demandas entre setores, resultando em processos fragmentados e falhas na comunicação.
+
+Como solução, minha equipe desenvolveu o WeCollab, uma plataforma web integrada que organiza a gestão de tickets, promove o compartilhamento de documentos de forma segura e estruturada, e disponibiliza indicadores de desempenho por meio de dashboards. Dessa forma, contribuímos para a melhoria da colaboração entre setores e para a eficiência operacional, oferecendo um ambiente digital centralizado para comunicação e gestão interna.
+
+#### Tecnologias
+<img src="https://skillicons.dev/icons?i=html,css,javascript,nodejs,typescript,react,nextjs,tailwind,mysql,express,sequelize"/>
+
+* html, css, tailwind - Linguagens de marcação e framework utilizados no front-end para construção e estilização das páginas
+* typescript, react - Linguagem de programação e biblioteca utilizadas no front-end para criação de componentes reutilizáveis
+* javascript, nodejs - Linguagem de programação e ambiente de execução utilizados para construir o back-end
+* express - Framework utilizado no back-end para estruturar as rotas e facilitar a criação da API REST
+* sequelize, mysql - ORM e sistema gerenciador de banco de dados utilizados para modelagem, manipulação e persistência dos dados da aplicação
+
+#### Contribuições pessoais
+Neste projeto, atuei como desenvolvedor, sendo responsável pela estruturação e inicialização do backend utilizando Node.js com Express, bem como pela definição e implementação das rotas relacionadas ao módulo de tickets. Além disso, desenvolvi funcionalidades importantes como o pop-up para visualização e criação de tickets, bem como o sistema de comentários associado a cada um deles, utilizando TypeScript no frontend com React.
+
+Implementei também as funções de pesquisa de usuários e os filtros dinâmicos para tickets, otimizando a busca e a gestão das solicitações na plataforma. No backend, além das rotas, implementei opções para alteração de senha e controle de autenticação.
+
+Por fim, fui responsável pela implementação da paginação nas listagens, bem como pelos cálculos de indicadores exibidos no dashboard, possibilitando uma visão consolidada do desempenho da empresa. Para a estilização da interface, utilizei HTML, CSS e Tailwind CSS, garantindo um design responsivo e funcional.
+
+#### Hard Skills
 
 | Hard Skill | Nivel de Proficiência | 
 |-------------|-------------|
@@ -148,13 +199,12 @@ Além disso, implementei a tabela de vendedores, facilitando a visualização e 
 | MySQL | Consigo ensinar |
 | TypeScript | Consigo ensinar |
 | React | Consigo ensinar |
-
+| Git/GitHub | Consigo ensinar |
 
 #### Soft Skills
-Durante o desenvolvimento do projeto, utilizei minhas habilidades de comunicação para sugerir a implementação da validação de CPF e CNPJ nos formulários, garantindo maior qualidade e confiabilidade dos dados coletados.
+Durante o desenvolvimento do projeto, utilizei minhas habilidades de comunicação e pensamento crítico ao sugerir e convencer minha equipe a implementar o fluxo de encaminhamento de tickets, permitindo que as solicitações pudessem ser repassadas entre diferentes setores de forma mais eficiente, alinhando o sistema às necessidades reais da empresa.
 
-Também propus a criação do scoreboard como uma ferramenta de incentivo, visando aumentar o engajamento dos usuários por meio da pontuação baseada nas vendas.
+Além disso, demonstrei colaboração e proatividade ao criar comandos de desenvolvimento, que facilitaram a rotina do time e otimizaram o processo de implementação das funcionalidades.
 
-Além disso, atuei como mentor, demonstrando trabalho em equipe, ao ajudar meu time a se familiarizar com as tecnologias Express e Sequelize, compartilhando conhecimentos e boas práticas para acelerar o desenvolvimento do backend.
-
+Por fim, exerci trabalho em equipe e apoio à liderança, auxiliando o Scrum Master no acompanhamento das tarefas, contribuindo para a organização do backlog e garantindo que as entregas fossem concluídas dentro do prazo estabelecido.
 </details>
