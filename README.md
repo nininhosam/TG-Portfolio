@@ -163,7 +163,7 @@ Além disso, atuei como mentor, demonstrando trabalho em equipe, ao ajudar meu t
 <details> 
   <summary>Quarto Semestre (2024-2) - WeCollab</summary>
 
-O projeto [WeCollab](https://github.com/Byte-Boost/WeCollab), desenvolvido no terceiro semestre do curso, teve como empresa parceira a JJM LOG.
+O projeto [WeCollab](https://github.com/Byte-Boost/WeCollab), desenvolvido no quarto semestre do curso, teve como empresa parceira a JJM LOG.
 
 O problema apresentado consistia na dificuldade enfrentada por empresas em centralizar a comunicação interna e a gestão de solicitações, documentos e informações de desempenho. A ausência de um sistema unificado dificultava o acompanhamento do fluxo de demandas entre setores, resultando em processos fragmentados e falhas na comunicação.
 
