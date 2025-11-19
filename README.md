@@ -279,8 +279,7 @@ Como solução, minha equipe desenvolveu uma plataforma web, onde o usuário pod
 <img src="https://skillicons.dev/icons?i=html,css,typescript,nodejs,vue,tailwind,mongodb,spring,java,python,fastapi,maven,chromadb"/>
 
 * HTML, CSS, Tailwind - Linguagens de marcação e framework utilizados para a construção e estilização das interfaces da plataforma.
-* TypeScript, Vue - Linguagem de programação e framework utilizados no front-end para criação de componentes reativos e reutilizáveis.
-* JavaScript, Node.js - Linguagem de programação e ambiente de execução utilizados para implementar partes do back-end da solução.
+* TypeScript, Vue, Node.js - Linguagem de programação e framework utilizados no front-end para criação de componentes reativos e reutilizáveis.
 * Java, Springboot, Maven - Linguagem, framework e ferramenta de gerenciamento utilizados no desenvolvimento da REST API que fica entre o serviço de IA e o Frontend.
 * MongoDB - Banco de dados NoSQL utilizado para armazenar todas as informações dos usuários como registros de acompanhamento nutricional, diétas, etc...
 * Python, FastAPI - Linguagem de programação e framework utilizados na criação de APIs, usada para integrar as funcionalidades essenciais do chatbot.
