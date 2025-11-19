@@ -300,7 +300,6 @@ No back-end, criei toda a base da API em Spring Boot, implementando os módulos 
 | Tailwind | Consigo ensinar |
 | TypeScript | Consigo ensinar |
 | Vue.js | Uso com autonomia |
-| JavaScript | Consigo ensinar |
 | Node.js | Consigo ensinar |
 | Java | Consigo ensinar |
 | Springboot | Uso com autonomia |
