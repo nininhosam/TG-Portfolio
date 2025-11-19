@@ -265,3 +265,58 @@ Além disso, precisei usar minha capacidade de solução de problemas e proativi
 Por fim, exercitei trabalho em equipe e empatia, apoiando os colegas no desenvolvimento das funcionalidades e na superação de eventuais dificuldades técnicas, sempre buscando manter um ambiente colaborativo e positivo.
 
 </details>
+
+<details> 
+  <summary>Sexto Semestre (2025-2) - Junipy</summary>
+
+O projeto [Junipy](https://github.com/Byte-Boost/Junipy) desenvolvido no sexto semestre do curso teve como empresa parceira a Xertica.
+
+O problema apresentado consistia na necessidade de facilitar o processo de orientação nutricional, onde usuários pudessem receber acompanhamento contínuo sem depender exclusivamente de atendimentos presenciais.
+
+Como solução, minha equipe desenvolveu uma plataforma web, onde o usuário pode realizar sua anamnese inicial e interagir com um chatbot especializado em nutrição. O sistema registra informações no banco de dados e utiliza esses dados para aprimorar o atendimento, oferecendo respostas mais personalizadas, criação de dietas e orientações sobre alimentos ao longo do acompanhamento.
+
+#### Tecnologias
+<img src="https://skillicons.dev/icons?i=html,css,typescript,nodejs,vue,tailwind,mongodb,spring,java,python,fastapi,maven,chromadb"/>
+
+* HTML, CSS, Tailwind - Linguagens de marcação e framework utilizados para a construção e estilização das interfaces da plataforma.
+* TypeScript, Vue - Linguagem de programação e framework utilizados no front-end para criação de componentes reativos e reutilizáveis.
+* JavaScript, Node.js - Linguagem de programação e ambiente de execução utilizados para implementar partes do back-end da solução.
+* Java, Springboot, Maven - Linguagem, framework e ferramenta de gerenciamento utilizados no desenvolvimento da REST API que fica entre o serviço de IA e o Frontend.
+* MongoDB - Banco de dados NoSQL utilizado para armazenar todas as informações dos usuários como registros de acompanhamento nutricional, diétas, etc...
+* Python, FastAPI - Linguagem de programação e framework utilizados na criação de APIs, usada para integrar as funcionalidades essenciais do chatbot.
+* ChromaDB - Banco vetorial utilizado para persistência e recuperação de embeddings, aprimorando a contextualização das respostas do chatbot.
+
+#### Contribuições pessoais
+Neste projeto, atuei como integrante do Dev Team, contribuindo tanto no front-end quanto no back-end. 
+No front-end, fui responsável por uma reestruturação completa das páginas existentes, organizando melhor os fluxos da plataforma e previnindo erros inexperados. Além disso, desenvolvi uma nova página de configurações, garantindo que o usuário pudesse acessar e ajustar informações de forma clara e funcional, utilizando HTML, CSS, TypeScript, Vue e Tailwind.
+
+No back-end, criei toda a base da API em Spring Boot, implementando os módulos essenciais de autenticação, autorização e gerenciamento de login. Também desenvolvi a configuração das roles, estruturando o controle de acesso da plataforma. Todas essas funcionalidades foram construídas com Java, Spring e Maven, integrando os serviços necessários para o funcionamento do chatbot e da plataforma como um todo.
+
+#### Hard Skills
+
+| Hard Skill | Nivel de Proficiência | 
+|-------------|-------------|
+| HTML | Consigo ensinar |
+| CSS | Consigo ensinar |
+| Tailwind | Consigo ensinar |
+| TypeScript | Consigo ensinar |
+| Vue.js | Uso com autonomia |
+| JavaScript | Consigo ensinar |
+| Node.js | Consigo ensinar |
+| Java | Consigo ensinar |
+| Springboot | Uso com autonomia |
+| Maven | Uso com autonomia |
+| MongoDb | Consigo ensinar |
+| Git/GitHub | Consigo ensinar |
+
+#### Soft Skills
+Durante o desenvolvimento deste projeto, exerci minha comunicação ao explicar para a equipe a estrutura do back-end em Spring Boot. Em um dos encontros, o grupo tinha dúvidas sobre o fluxo de autenticação e a organização das camadas da aplicação. Expliquei o funcionamento completo do fluxo, desde o recebimento do login até a validação das roles, e detalhei como cada endpoint que eu havia criado se encaixava na arquitetura. Essa explicação garantiu alinhamento entre front-end e back-end, evitando erros futuros de integração.
+
+Também utilizei colaboração e capacidade de mentoria ao ajudar um colega que estava com dificuldade em modelar o domínio necessário para um CRUD específico. Ele não conseguia definir um modelo coerente com as necessidades do projeto. Para evitar atrasos, tomei a iniciativa de criar a modelagem correta e implementar os endpoints principais, permitindo que ele continuasse a partir daí com uma tarefa relacionada. Esse apoio direto garantiu que o ritmo do time fosse mantido.
+</details>
+
+
+
+
+
+
