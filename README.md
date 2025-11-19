@@ -287,7 +287,7 @@ Como solução, minha equipe desenvolveu uma plataforma web, onde o usuário pod
 * ChromaDB - Banco vetorial utilizado para persistência e recuperação de embeddings, aprimorando a contextualização das respostas do chatbot.
 
 #### Contribuições pessoais
-Neste projeto, atuei como integrante do Dev Team, contribuindo tanto no front-end quanto no back-end. 
+Neste projeto, atuei como desenvolvedor, contribuindo tanto no front-end quanto no back-end. 
 No front-end, fui responsável por uma reestruturação completa das páginas existentes, organizando melhor os fluxos da plataforma e previnindo erros inexperados. Além disso, desenvolvi uma nova página de configurações, garantindo que o usuário pudesse acessar e ajustar informações de forma clara e funcional, utilizando HTML, CSS, TypeScript, Vue e Tailwind.
 
 No back-end, criei toda a base da API em Spring Boot, implementando os módulos essenciais de autenticação, autorização e gerenciamento de login. Também desenvolvi a configuração das roles, estruturando o controle de acesso da plataforma. Todas essas funcionalidades foram construídas com Java, Spring e Maven, integrando os serviços necessários para o funcionamento do chatbot e da plataforma como um todo.
