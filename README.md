@@ -5,7 +5,7 @@
   <img align="right" src="https://images.weserv.nl/?url=https://github.com/nininhosam.png?h=300&w=300&fit=cover&mask=circle" alt="Foto de Perfil" height="20%" width="20%">
 </div>
 <p align="justify">
-Meu nome é Vinicius e sempre tive interesse por programação desde criança, mas foi entre 2021 e 2022 que comecei a estudá-la de fato. Esse interesse me levou, no primeiro semestre de 2022, a ingressar no curso de Análise e Desenvolvimento de Sistemas na FATEC Jessen Vidal, onde finalizei o curso no segundo semestre de 2025.
+Meu nome é Vinicius e sempre tive interesse por programação desde criança, mas foi entre 2021 e 2022 que comecei a estudá-la de fato. Esse interesse me levou, no primeiro semestre de 2023, a ingressar no curso de Análise e Desenvolvimento de Sistemas na FATEC Jessen Vidal, onde finalizei o curso no segundo semestre de 2025.
 
 Minha principal motivação é a curiosidade de aprender novas ferramentas e aprimorar constantemente minhas habilidades. Ao longo da minha trajetória, adquiri experiência prática com linguagens como HTML5, CSS, Python, JavaScript, TypeScript, Java e C#, além de tecnologias como Angular, React, Node.js e EF Core.
 
