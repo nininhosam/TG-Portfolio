@@ -231,11 +231,12 @@ Como solução, minha equipe desenvolveu um aplicativo móvel intuitivo para req
 * Mongoose, MongoDB – ODM e banco de dados NoSQL utilizados para armazenar dados não relacionais, oferecendo flexibilidade na modelagem de informações.
 
 #### Contribuições pessoais
-Neste projeto, atuei como desenvolvedor e Scrum Master. Como desenvolvedor, fui responsável pela estruturação do back-end e da maior parte do front-end web. No back-end, desenvolvi rotas para listagem de reembolsos, autenticação de usuários, middleware de autenticação e autorização, além da implementação do MongoDB com Mongoose para armazenar preferências de projetos. Também criei funcionalidades como adição e remoção de usuários, atualização de preferências e definição de roles administrativas.
+Neste projeto, atuei como desenvolvedor e Scrum Master. Como Scrum Master, fui responsável por criar e atribuir tarefas a equipe, e utilizei o método planning poker para a estimativa de esforço das atividades. Acompanhei tanto o gráfico do burndown feito no excel, quanto o board da equipe no trello, para garantir que as entregas fossem feitas no prazo, e minimizar a quantidade de bloqueios durante o desenvolvimento.
+
+Como desenvolvedor, fui responsável pela iniciação e organização do back-end e da maior parte do front-end web. No back-end, desenvolvi rotas para listagem de reembolsos, autenticação de usuários, middleware de autenticação e autorização, além da implementação do MongoDB com Mongoose para armazenar preferências de projetos. Também criei funcionalidades como adição e remoção de usuários, atualização de preferências e definição de roles administrativas.
 
 No front-end web, construí praticamente todas as páginas: listagem, criação, edição e remoção de usuários, projetos e reembolsos, além do website em si, com a página de login e restrições de acesso exclusivas para administradores.
 
-Como Scrum Master, fui responsável por criar e atribuir tarefas, acompanhar o burndown e garantir que as entregas fossem feitas no prazo, utilizando Trello e Excel para organização e controle do desenvolvimento.
 
 #### Hard Skills
 
