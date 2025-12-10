@@ -5,11 +5,11 @@
   <img align="right" src="https://images.weserv.nl/?url=https://github.com/nininhosam.png?h=300&w=300&fit=cover&mask=circle" alt="Foto de Perfil" height="20%" width="20%">
 </div>
 <p align="justify">
-Meu nome é Vinicius e sempre tive interesse por programação desde criança, mas foi entre 2021 e 2022 que comecei a estudá-la de fato. Esse interesse me levou, no primeiro semestre de 2022, a ingressar no curso de Análise e Desenvolvimento de Sistemas na FATEC Jessen Vidal, onde atualmente estou no 5º semestre.
+Meu nome é Vinicius e sempre tive interesse por programação desde criança, mas foi entre 2021 e 2022 que comecei a estudá-la de fato. Esse interesse me levou, no primeiro semestre de 2022, a ingressar no curso de Análise e Desenvolvimento de Sistemas na FATEC Jessen Vidal, onde finalizei o curso no segundo semestre de 2025.
 
 Minha principal motivação é a curiosidade de aprender novas ferramentas e aprimorar constantemente minhas habilidades. Ao longo da minha trajetória, adquiri experiência prática com linguagens como HTML5, CSS, Python, JavaScript, TypeScript, Java e C#, além de tecnologias como Angular, React, Node.js e EF Core.
 
-Profissionalmente, dei um passo importante na minha carreira ao iniciar um estágio em outubro de 2023 na empresa GSW. Desde então, venho aplicando meus conhecimentos na prática e buscando expandir meu repertório técnico. Meu objetivo é continuar evoluindo para me tornar um desenvolvedor full-stack completo e qualificado.
+Profissionalmente, dei um passo importante na minha carreira ao iniciar um estágio em outubro de 2023 na empresa GSW. Desde então, venho aplicando meus conhecimentos na prática e buscando expandir meu repertório técnico. No segundo semestre de 2025, fui contratado como desenvolvedor junior pela GSW, e minha meta é continuar evoluindo nesse ritmo
 </p>
 
 ## Contatos
